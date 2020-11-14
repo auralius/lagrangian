@@ -25,3 +25,7 @@ Pendulum with an oscillating support
 Two masses, one swinging
 
 ![](https://github.com/auralius/lagrangian/blob/master/docs/problem6.gif)
+
+Slider and crank
+
+![](https://github.com/auralius/lagrangian/blob/master/docs/problem7.gif)
