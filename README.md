@@ -29,3 +29,7 @@ Two masses, one swinging
 Standing slider and crank under gravitational force
 
 ![](https://github.com/auralius/lagrangian/blob/master/docs/problem7.gif)
+
+Slider and crank, a spring is added in the slider, along the horizontal axis
+
+![](https://github.com/auralius/lagrangian/blob/master/docs/problem9.gif)
