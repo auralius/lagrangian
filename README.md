@@ -32,4 +32,4 @@ Standing slider and crank under gravitational force
 
 Slider and crank, a spring is added in the slider, along the horizontal axis
 
-![](https://github.com/auralius/lagrangian/blob/master/docs/problem9.gif)
+![](https://github.com/auralius/lagrangian/blob/master/docs/problem8.gif)
