@@ -33,3 +33,11 @@ Standing slider and crank under gravitational force
 Slider and crank, a spring is added in the slider, along the horizontal axis
 
 ![](https://github.com/auralius/lagrangian/blob/master/docs/problem8.gif)
+
+Unbalanced rotating mass
+
+![](https://github.com/auralius/lagrangian/blob/master/docs/problem10.gif)
+
+Unbalanced rotating mass with a spring
+
+![](https://github.com/auralius/lagrangian/blob/master/docs/problem11.gif)
