@@ -1,6 +1,6 @@
 ## Collection of problems in Mechanics solved with Lagrangian in Maple
 
-Most problems are taken from David Morin's book: https://scholar.harvard.edu/files/david-morin/files/cmchap6.pdf
+Some problems are taken from David Morin's book: https://scholar.harvard.edu/files/david-morin/files/cmchap6.pdf
 
 Single pendulum
 
