@@ -41,3 +41,8 @@ Rotating unbalance
 Rotating unbalace with a spring
 
 ![](https://github.com/auralius/lagrangian/blob/master/docs/problem11.gif)
+
+
+Reaction wheel pendulum
+
+![](https://github.com/auralius/lagrangian/blob/master/docs/problem12.gif)
