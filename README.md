@@ -46,3 +46,9 @@ Rotating unbalace with a spring
 Reaction wheel pendulum
 
 ![](https://github.com/auralius/lagrangian/blob/master/docs/problem12.gif)
+
+Flyball speed governor
+
+![](https://github.com/auralius/lagrangian/blob/master/docs/problem13a.gif)
+
+![](https://github.com/auralius/lagrangian/blob/master/docs/problem13b.gif)
