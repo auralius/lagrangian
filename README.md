@@ -58,4 +58,3 @@ Sucker rod pump
 
 ![](https://github.com/auralius/lagrangian/blob/master/docs/problem14.gif)
 
-![](https://github.com/auralius/lagrangian/blob/master/docs/problem14.gif)
